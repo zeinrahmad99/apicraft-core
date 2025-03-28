@@ -1,0 +1,22 @@
+{
+    "name": "apicraft/core",
+    "description": "Professional-grade API development toolkit for Laravel",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "ApiCraft\\Core\\": "src/"
+        },
+        "files": [
+            "src/helpers.php"
+        ]
+    },
+    
+    "authors": [
+        {
+            "name": "zein rawad ahmad",
+            "email": "zeinrahmad99@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
